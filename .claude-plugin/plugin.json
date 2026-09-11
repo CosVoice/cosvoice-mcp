@@ -1,0 +1,10 @@
+{
+  "name": "cosvoice",
+  "version": "1.0.0",
+  "description": "CosVoice gives your Chief of Staff a real phone number and email. Connect https://cosvoice.com/mcp by URL (OAuth, no key to paste) and your Bot can place phone calls on your behalf, book restaurants by phone, answer calls you miss, read every call summary, and act on the texts you send its line. Use the cosvoice skill to set the line up and to brief calls well.",
+  "author": { "name": "CosVoice", "url": "https://cosvoice.com" },
+  "repository": "https://github.com/andyfathollahi/cosvoice-mcp",
+  "homepage": "https://cosvoice.com",
+  "license": "MIT",
+  "keywords": ["cosvoice", "cosvoice phone", "cosvoice line", "cosvoice.com"]
+}

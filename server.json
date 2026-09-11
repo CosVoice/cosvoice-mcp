@@ -1,0 +1,25 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.cosvoice/cosvoice",
+  "title": "CosVoice",
+  "description": "A real phone number and email for your AI Chief of Staff. Calls, bookings by phone, summaries.",
+  "websiteUrl": "https://cosvoice.com",
+  "repository": {
+    "url": "https://github.com/andyfathollahi/cosvoice-mcp",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://cosvoice.com/mcp"
+    }
+  ],
+  "_meta": {
+    "io.modelcontextprotocol.registry/publisher-provided": {
+      "tool": "mcp-publisher",
+      "auth": "oauth2.1-pkce-dcr",
+      "skill": "https://cosvoice.com/skill"
+    }
+  }
+}

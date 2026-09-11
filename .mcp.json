@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "cosvoice": {
+      "type": "http",
+      "url": "https://cosvoice.com/mcp",
+      "note": "CosVoice hosted MCP server. OAuth 2.1: on first connection the owner signs in to CosVoice in the browser and clicks Allow (no API key to paste). Tools: get_account, search_numbers, create_line (setup), place_call, book_reservation, get_call, list_calls, send_text, list_messages, list_emails, get_email, list_contacts, add_contact, get_settings, update_settings, set_webhook, list_history, recent_activity, ack_instructions, list_integrations."
+    }
+  }
+}
