@@ -1,6 +1,6 @@
 # CosVoice for Grok Bot, Claude, ChatGPT, and Cursor
 
-**Give your Chief of Staff a phone.** CosVoice gives an AI assistant its own real phone number (in your area code) and its own email address. The assistant can place calls for you, book restaurants by phone, answer the calls you miss, and read a written summary of every call. The voice on the line is Grok Voice, full duplex, and it always says it is an AI assistant when asked.
+**A real phone line for your AI Bot.** CosVoice gives an AI assistant its own real phone number (in your area code) and its own email address. The assistant can place calls for you, book restaurants by phone, answer the calls you miss, and read a written summary of every call. The voice on the line is Grok Voice, full duplex, and it always says it is an AI assistant when asked.
 
 Website: https://cosvoice.com · Setup page written for the assistant: https://cosvoice.com/skill
 

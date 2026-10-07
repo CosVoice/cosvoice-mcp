@@ -2,10 +2,10 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "com.cosvoice/cosvoice",
   "title": "CosVoice",
-  "description": "A real phone number and email for your AI Chief of Staff. Calls, bookings by phone, summaries.",
+  "description": "A real phone line for your AI Bot: calls in and out, bookings by phone, written summaries.",
   "websiteUrl": "https://cosvoice.com",
   "repository": {
-    "url": "https://github.com/andyfathollahi/cosvoice-mcp",
+    "url": "https://github.com/CosVoice/cosvoice-mcp",
     "source": "github"
   },
   "version": "1.0.0",
