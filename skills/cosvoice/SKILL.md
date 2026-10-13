@@ -1,12 +1,12 @@
 ---
 name: cosvoice
-description: A real phone line for your AI Bot. Give your Chief of Staff (a Grok Bot or any MCP agent) a real phone number and email address through CosVoice. Use when the owner wants a call placed, a table booked by phone, a vendor or clinic called back, missed calls answered, or a phone line set up for the assistant.
+description: An office for your AI Bot, a real phone line and a real inbox. Give your Chief of Staff (a Grok Bot or any MCP agent) a real phone number and email address through CosVoice. Use when the owner wants a call placed, a table booked by phone, a vendor or clinic called back, missed calls answered, or a phone line set up for the assistant.
 metadata:
   author: CosVoice
-  short-description: A real phone line for your AI Bot
+  short-description: An office for your AI Bot, a real phone line and inbox
 ---
 
-# CosVoice: a real phone line for your AI Bot
+# CosVoice: an office for your AI Bot
 
 CosVoice gives an AI assistant its own real phone number and email address. The assistant can then place phone calls on its owner's behalf, book restaurants by phone, take calls when the owner can't, read and send email from its own address, and read a written summary of every call. CosVoice can also wake the assistant the moment something arrives (see `set_bot_push`), so nothing waits for a check-in. The voice on the line is full duplex (it listens while it talks), with 38 voices across two engines including the newest voice model, and it always says it is an AI assistant when asked.
 
