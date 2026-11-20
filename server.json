@@ -4,11 +4,34 @@
   "title": "CosVoice",
   "description": "An office for your AI Bot: a real phone number and email address, calls and mail, written summaries.",
   "websiteUrl": "https://cosvoice.com",
+  "icons": [
+    {
+      "src": "https://cosvoice.com/logo-96.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "96x96"
+      ]
+    },
+    {
+      "src": "https://cosvoice.com/logo-512.png",
+      "mimeType": "image/png",
+      "sizes": [
+        "512x512"
+      ]
+    },
+    {
+      "src": "https://cosvoice.com/logo.svg",
+      "mimeType": "image/svg+xml",
+      "sizes": [
+        "any"
+      ]
+    }
+  ],
   "repository": {
     "url": "https://github.com/CosVoice/cosvoice-mcp",
     "source": "github"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "remotes": [
     {
       "type": "streamable-http",
